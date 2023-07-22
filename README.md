@@ -17,7 +17,7 @@ When booting on a UEFI-based computer, Windows may show a vendor-defined logo wh
 
 * Clone this repo:
 ```bash
-git clone https://github.com/iammrmehedi/Windows-Boot-Logo-Changer.git
+git clone https://github.com/devbytemehedi/winbootlogochanger.git
 ```
 * Run `setup.exe` as an **Administrator** and follow the instructions.
 	* You may need to manually disable Secure Boot and then retry.
